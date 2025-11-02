@@ -12,7 +12,7 @@ export default function Hero() {
           <div className="h-full flex items-center">
             <div className="max-w-2xl bg-white/70 backdrop-blur-md rounded-2xl p-6 sm:p-8 shadow-xl">
               <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight text-gray-900">
-                GenoQuant: The IP Address for Humans
+                GenoQuant Networks: The IP Address for Humans
               </h1>
               <p className="mt-4 text-gray-700 text-lg">
                 Universal biogenetic identity for precision healthcare

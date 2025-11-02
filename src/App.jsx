@@ -56,7 +56,7 @@ function App() {
       </main>
       <footer className="border-t border-gray-200 py-8">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-sm text-gray-600">
-          © {new Date().getFullYear()} GenoQuant. All rights reserved.
+          © {new Date().getFullYear()} GenoQuant Networks. All rights reserved.
         </div>
       </footer>
     </div>

@@ -17,7 +17,7 @@ export default function Navbar() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center gap-3">
             <span className="text-2xl">🧬</span>
-            <a href="#home" className="text-lg sm:text-xl font-semibold tracking-tight text-gray-900">GenoQuant</a>
+            <a href="#home" className="text-lg sm:text-xl font-semibold tracking-tight text-gray-900">GenoQuant Networks</a>
           </div>
 
           <nav className="hidden md:flex items-center gap-8">
